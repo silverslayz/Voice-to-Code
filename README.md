@@ -1,0 +1,1 @@
+challeging myself to become a better programmer so i have tasked myself with creating a voice to code python web app that can be downloaded and used to simply copy and paste or if your jsut to lazy to type 
